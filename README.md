@@ -1,2 +1,0 @@
-# kodluyoruz-front-end
-kendim
